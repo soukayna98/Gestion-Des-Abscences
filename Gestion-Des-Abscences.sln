@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion-Des-Abscences", "Gestion-Des-Abscences.csproj", "{8F327BEE-80A2-423F-B593-EE948B8C72E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F327BEE-80A2-423F-B593-EE948B8C72E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F327BEE-80A2-423F-B593-EE948B8C72E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F327BEE-80A2-423F-B593-EE948B8C72E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F327BEE-80A2-423F-B593-EE948B8C72E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02EE4C00-5C23-443D-95DF-F11569B39D96}
+	EndGlobalSection
+EndGlobal
